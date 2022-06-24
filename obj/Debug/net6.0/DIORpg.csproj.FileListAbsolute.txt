@@ -1,0 +1,15 @@
+/home/rafael/Documentos/projetosDio/DIORpg/bin/Debug/net6.0/DIORpg
+/home/rafael/Documentos/projetosDio/DIORpg/bin/Debug/net6.0/DIORpg.deps.json
+/home/rafael/Documentos/projetosDio/DIORpg/bin/Debug/net6.0/DIORpg.runtimeconfig.json
+/home/rafael/Documentos/projetosDio/DIORpg/bin/Debug/net6.0/DIORpg.dll
+/home/rafael/Documentos/projetosDio/DIORpg/bin/Debug/net6.0/DIORpg.pdb
+/home/rafael/Documentos/projetosDio/DIORpg/obj/Debug/net6.0/DIORpg.csproj.AssemblyReference.cache
+/home/rafael/Documentos/projetosDio/DIORpg/obj/Debug/net6.0/DIORpg.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafael/Documentos/projetosDio/DIORpg/obj/Debug/net6.0/DIORpg.AssemblyInfoInputs.cache
+/home/rafael/Documentos/projetosDio/DIORpg/obj/Debug/net6.0/DIORpg.AssemblyInfo.cs
+/home/rafael/Documentos/projetosDio/DIORpg/obj/Debug/net6.0/DIORpg.csproj.CoreCompileInputs.cache
+/home/rafael/Documentos/projetosDio/DIORpg/obj/Debug/net6.0/DIORpg.dll
+/home/rafael/Documentos/projetosDio/DIORpg/obj/Debug/net6.0/refint/DIORpg.dll
+/home/rafael/Documentos/projetosDio/DIORpg/obj/Debug/net6.0/DIORpg.pdb
+/home/rafael/Documentos/projetosDio/DIORpg/obj/Debug/net6.0/DIORpg.genruntimeconfig.cache
+/home/rafael/Documentos/projetosDio/DIORpg/obj/Debug/net6.0/ref/DIORpg.dll
