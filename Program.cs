@@ -1,6 +1,7 @@
 ﻿using DIORpg.src.Entities;
 
-Arus hero = new Arus("Arus", 2, "Knight");
+Hero arus = new Knight("Arus", 23, "Knight");
+Hero wizard = new Wizard("Jennica", 23, "White Wizard");
 
 
 //Listagem ruim sem POO
@@ -8,4 +9,10 @@ Arus hero = new Arus("Arus", 2, "Knight");
 // int level = 12;
 // string tipoHeroi = "Guerreiro";
 
-System.Console.WriteLine($"O nome do Heroi é {nome} ele é um {level} de level {tipoHeroi}");
+System.Console.WriteLine(arus.Attack(1));
+System.Console.WriteLine(wizard.Attack(0));
+
+
+//hero sozinho já chama o .tostring()
+System.Console.WriteLine(arus);
+System.Console.WriteLine(wizard);

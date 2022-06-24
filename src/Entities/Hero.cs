@@ -5,9 +5,9 @@ using System.Threading.Tasks;
 
 namespace DIORpg.src.Entities
 {
-    public class Arus
+    public abstract class Hero
     {      
-        public Arus(string name, int level, string heroType)
+        public Hero(string name, int level, string heroType)
         {
             this.name = name;
             this.level = level;
@@ -18,5 +18,17 @@ namespace DIORpg.src.Entities
         public int level;
 
         public string? heroType;
+
+        public override string ToString()
+        {
+            return $"{this.name} {this.level} {this.heroType}";
+        }
+
+        public virtual string Attack(int? Bonus)
+        {
+            return this.name + " atacou com sua espada";
+        }
+
+        
     }
 }
